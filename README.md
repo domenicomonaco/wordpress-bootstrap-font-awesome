@@ -1,4 +1,4 @@
-# Wordpress Theme Integration for Bootstrao & Font-Awesom
+# Bootstrap & Font-Awesome Wordpress Theme Integration for Noobs
 
 Simplified solution for "noobs" to integrate Bootstrap and Font Awesome into your worpdress theme
 
